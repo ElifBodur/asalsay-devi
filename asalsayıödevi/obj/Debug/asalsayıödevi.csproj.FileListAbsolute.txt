@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.Form1.resources
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\asalsayıödevi\bin\Debug\asalsayıödevi.exe.config
+C:\Users\Lenovo\Desktop\asalsayıödevi\bin\Debug\asalsayıödevi.exe
+C:\Users\Lenovo\Desktop\asalsayıödevi\bin\Debug\asalsayıödevi.pdb
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.exe
+C:\Users\Lenovo\Desktop\asalsayıödevi\obj\Debug\asalsayıödevi.pdb
